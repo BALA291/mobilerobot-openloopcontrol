@@ -116,23 +116,19 @@ if name == 'main':
 
 ![robo](./img/robomaster.png)
 <br/>
-
-<br/>
-<br/>
-<br/>
-
-## MobileRobot Movement Video:
-
-Upload your video in Youtube and paste your video-id here
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-<br/>
 ![ROBO1](https://github.com/BALA291/mobilerobot-openloopcontrol/assets/120717501/3c1c3886-ad74-4618-9ca4-4a492f8f2e7f)
+
 <br/>
 ![ROBO2](https://github.com/BALA291/mobilerobot-openloopcontrol/assets/120717501/73e9a335-b0f3-4f59-a4e6-9ccbef43ac60)
 
 <br/>
 ![ROBO3](https://github.com/BALA291/mobilerobot-openloopcontrol/assets/120717501/5af102c3-44b2-4767-b936-09f31dfbc234)
+
+<br/>
+
+## MobileRobot Movement Video:
+
+
 
 <br/>
 
