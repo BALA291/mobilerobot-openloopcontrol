@@ -115,16 +115,12 @@ if name == 'main':
 ## MobileRobot Movement Image:
 
 ![robo](./img/robomaster.png)
-<br/>
 ![ROBO1](https://github.com/BALA291/mobilerobot-openloopcontrol/assets/120717501/3c1c3886-ad74-4618-9ca4-4a492f8f2e7f)
 
-<br/>
 ![ROBO2](https://github.com/BALA291/mobilerobot-openloopcontrol/assets/120717501/73e9a335-b0f3-4f59-a4e6-9ccbef43ac60)
 
-<br/>
 ![ROBO3](https://github.com/BALA291/mobilerobot-openloopcontrol/assets/120717501/5af102c3-44b2-4767-b936-09f31dfbc234)
 
-<br/>
 
 ## MobileRobot Movement Video:
 
